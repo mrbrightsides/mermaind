@@ -137,7 +137,7 @@ git checkout -b feature/your-feature-name
 
 ### **Finding Issues to Work On**
 
-1. Check [Issues](https://github.com/yourusername/mermaind/issues)
+1. Check [Issues](https://github.com/mrbrightsides/mermaind/issues)
 2. Look for labels:
    - `good-first-issue` - Great for beginners
    - `help-wanted` - We need help!
@@ -558,10 +558,9 @@ Top contributors may receive:
 
 **Stuck? Questions?**
 
-- 💬 [GitHub Discussions](https://github.com/yourusername/mermaind/discussions)
-- 🐛 [Issue Tracker](https://github.com/yourusername/mermaind/issues)
-- 📧 Email: contributors@mermaind.app
-- 🗨️ Discord: [Join our server](https://discord.gg/mermaind)
+- 💬 [GitHub Discussions](https://github.com/mrbrightsides/mermaind/discussions)
+- 🐛 [Issue Tracker](https://github.com/mrbrightsides/mermaind/issues)
+- 📧 Email: support@elpeef.com
 
 **Office Hours** (Coming Soon):
 - Weekly video call for contributors
