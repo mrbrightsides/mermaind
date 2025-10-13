@@ -959,6 +959,6 @@ This documentation covers the core technical architecture of Mermaind. For speci
 
 ---
 
-**Last Updated**: 2024
+**Last Updated**: 2025
 **Version**: 1.0.0
 **Maintainer**: [@mrbrightsides](https://github.com/mrbrightsides)
